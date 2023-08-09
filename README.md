@@ -6,8 +6,8 @@
 The Awesome Models repository is a collection of links to pre-trained models. However, it also contains some broken links. If you find any broken links, please raise an issue to have them fixed as soon as possible.
 
 ## 🚀 Keras
-| Framework  	| Model_link 	|
-|------------	|------------	|
+| Framework                         | Model_link 	|
+|------------                      	|------------	|
 |Xception|[model link](https://github.com/modelhub-ai/xception/releases/download/v1.0/model.h5)|
 |VGG16|[model link](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels.h5)|
 |VGG19|[model link](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels.h5)|
