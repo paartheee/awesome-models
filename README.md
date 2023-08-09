@@ -201,3 +201,15 @@ The Awesome Models repository is a collection of links to pre-trained models.If 
 |Mobilenet_V3_Small_075_224|[model link]( https://tfhub.dev/google/imagenet/mobilenet_v3_small_075_224/feature_vector/5)|
 |Mobilenet_V3_Large_100_224|[model link]( https://tfhub.dev/google/imagenet/mobilenet_v3_large_100_224/feature_vector/5)|
 |Mobilenet_V3_Large_075_224|[model link]( https://tfhub.dev/google/imagenet/mobilenet_v3_large_075_224/feature_vector/5)|
+
+
+
+
+
+
+🐞 bugs & 🦸 contribution
+Computer Vision moves fast! Sometimes our model links are invalid. If you notice that any of the model link is not working properly, create a bug report and let us know.
+
+If you have an idea for a new model we should do, create a feature request. We are constantly looking for new models.
+
+We are here for you, so don't hesitate to [reach out](https://www.linkedin.com/in/parthibanma/)
