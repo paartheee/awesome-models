@@ -207,7 +207,7 @@ The Awesome Models repository is a collection of links to pre-trained models.If 
 
 
 
-🐞 bugs & 🦸 contribution
+## 🐞 bugs & 🦸 contribution
 Computer Vision moves fast! Sometimes our model links are invalid. If you notice that any of the model link is not working properly, create a bug report and let us know.
 
 If you have an idea for a new model we should do, create a feature request. We are constantly looking for new models.
