@@ -2,7 +2,14 @@
 
 The Awesome Models repository is a collection of links to download PyTorch , Keras, and Tensorflow pre-trained models. If you find any link is broken, please raise an issue to have it fixed as soon as possible.
 
-## 🚀 PyTorch - Image classification
+## Contents
+
+- [PyTorch Image Classification models](#PyTorch-Image-classification)
+- [PyTorch Object Detection models](#PyTorch-Object-Detection)
+- [Keras models](#Keras)
+- [Tensorflow models](#Tensorflow)
+
+## 🚀 PyTorch-Image-classification
 | Framework                         | Model_link 	|
 |------------                      	|------------	|
 |AlexNet|[model link](https://download.pytorch.org/models/alexnet-owt-7be5be79.pth)|
@@ -89,7 +96,7 @@ The Awesome Models repository is a collection of links to download PyTorch , Ker
 
 
 
-## 🚀 PyTorch - Object Detection
+## 🚀 PyTorch-Object-Detection
 | Framework                         | Model_link 	|
 |------------                      	|------------	|
 |Faster R-CNN_resnet50_fpn|[model link](https://download.pytorch.org/models/fasterrcnn_resnet50_fpn_coco-258fb6c6.pth)|
