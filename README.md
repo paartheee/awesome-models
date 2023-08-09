@@ -2,7 +2,6 @@
 
 [![Awesome](_static/awesome.png)](https://github.com/partheee/awesome-models)
 
-
 The Awesome Models repository is a collection of links to download PyTorch , Keras, and Tensorflow pre-trained models. If you find any link is broken, please raise an issue to have it fixed as soon as possible.
 ## 🚀 PyTorch - Image classification
 | Framework                         | Model_link 	|
