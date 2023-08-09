@@ -1,7 +1,4 @@
-# awesome-models
-
-
-[![Awesome](_static/awesome.png)](https://github.com/partheee/awesome-models)
+# Awesome Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/partheee/awesome-models)
 
 The Awesome Models repository is a collection of links to download PyTorch , Keras, and Tensorflow pre-trained models. If you find any link is broken, please raise an issue to have it fixed as soon as possible.
 
