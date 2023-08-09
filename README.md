@@ -4,6 +4,89 @@
 [![Awesome](_static/awesome.png)](https://github.com/partheee/awesome-models)
 
 The Awesome Models repository is a collection of links to pre-trained models. However, it also contains some broken links. If you find any broken links, please raise an issue to have them fixed as soon as possible.
+## 🚀 PyTorch - Image classification
+| Framework                         | Model_link 	|
+|------------                      	|------------	|
+|AlexNet|[model link](https://download.pytorch.org/models/alexnet-owt-7be5be79.pth)|
+|ConvNeXt_Tiny|[model link](https://download.pytorch.org/models/convnext_tiny-983f1562.pth)|
+|ConvNeXt_Small|[model link](https://download.pytorch.org/models/convnext_small-0c510722.pth)|
+|ConvNeXt_Base|[model link](https://download.pytorch.org/models/convnext_base-6075fbad.pth)|
+|ConvNeXt_Large|[model link](https://download.pytorch.org/models/convnext_large-ea097f82.pth)|
+|DenseNet_121|[model link](https://download.pytorch.org/models/densenet121-a639ec97.pth)|
+|DenseNet_161|[model link](https://download.pytorch.org/models/densenet161-8d451a50.pth)|
+|DenseNet_169|[model link](https://download.pytorch.org/models/densenet169-b2777c0a.pth)|
+|DenseNet_201|[model link](https://download.pytorch.org/models/densenet201-c1103571.pth)|
+|EfficientNet_B0|[model link](https://download.pytorch.org/models/efficientnet_b0_rwightman-3dd342df.pth)|
+|EfficientNet_B1|[model link](https://download.pytorch.org/models/efficientnet_b1_rwightman-533bc792.pth)|
+|EfficientNet_B2|[model link](https://download.pytorch.org/models/efficientnet_b2_rwightman-bcdf34b7.pth)|
+|EfficientNet_B3|[model link](https://download.pytorch.org/models/efficientnet_b3_rwightman-cf984f9c.pth)|
+|EfficientNet_B4|[model link](https://download.pytorch.org/models/efficientnet_b4_rwightman-7eb33cd5.pth)|
+|EfficientNet_B5|[model link](https://download.pytorch.org/models/efficientnet_b5_lukemelas-b6417697.pth)|
+|EfficientNet_B6|[model link](https://download.pytorch.org/models/efficientnet_b6_lukemelas-c76e70fd.pth)|
+|EfficientNet_B7|[model link](https://download.pytorch.org/models/efficientnet_b7_lukemelas-dcc49843.pth)|
+|EfficientNet_V2_S|[model link](https://download.pytorch.org/models/efficientnet_v2_s-dd5fe13b.pth)|
+|EfficientNet_V2_M|[model link](https://download.pytorch.org/models/efficientnet_v2_m-dc08266a.pth)|
+|EfficientNet_V2_L|[model link](https://download.pytorch.org/models/efficientnet_v2_l-59c71312.pth)|
+|GoogLeNet|[model link](https://download.pytorch.org/models/googlenet-1378be20.pth)|
+|Inception V3|[model link](https://download.pytorch.org/models/inception_v3_google-0cc3c7bd.pth)|
+|MaxVit|[model link](https://download.pytorch.org/models/maxvit_t-bc5ab103.pth)|
+|MNASNet0_5|[model link](https://download.pytorch.org/models/mnasnet0.5_top1_67.823-3ffadce67e.pth)|
+|MNASNet0_75|[model link](https://download.pytorch.org/models/mnasnet0_75-7090bc5f.pth)|
+|MNASNet1_0|[model link](https://download.pytorch.org/models/mnasnet1.0_top1_73.512-f206786ef8.pth)|
+|MNASNet1_3|[model link](https://download.pytorch.org/models/mnasnet1_3-a4c69d6f.pth)|
+|MobileNet V2|[model link](https://download.pytorch.org/models/mobilenet_v2-7ebf99e0.pth)|
+|MobileNet V3_Small|[model link](https://download.pytorch.org/models/mobilenet_v3_small-047dcff4.pth)|
+|MobileNet V3_Large|[model link](https://download.pytorch.org/models/mobilenet_v3_large-5c1a4163.pth)|
+|RegNet_Y_400mf|[model link](https://download.pytorch.org/models/regnet_y_400mf-e6988f5f.pth)|
+|RegNet_Y_800mf|[model link](https://download.pytorch.org/models/regnet_y_800mf-58fc7688.pth)|
+|RegNet_Y_1_6gf|[model link](https://download.pytorch.org/models/regnet_y_1_6gf-0d7bc02a.pth)|
+|RegNet_Y_3_2gf|[model link](https://download.pytorch.org/models/regnet_y_3_2gf-9180c971.pth)|
+|RegNet_Y_8gf|[model link](https://download.pytorch.org/models/regnet_y_8gf-d0d0e4a8.pth)|
+|RegNet_Y_16gf|[model link](https://download.pytorch.org/models/regnet_y_1_6gf-0d7bc02a.pth)|
+|RegNet_Y_32gf|[model link](https://download.pytorch.org/models/regnet_y_3_2gf-9180c971.pth)|
+|RegNet_Y_128gf|[model link](https://download.pytorch.org/models/regnet_y_128gf_swag-c8ce3e52.pth)|
+|RegNet_X_400mf|[model link](https://download.pytorch.org/models/regnet_x_400mf-62229a5f.pth)|
+|RegNet_X_800mf|[model link](https://download.pytorch.org/models/regnet_x_800mf-94a99ebd.pth)|
+|RegNet_X_1_6gf|[model link](https://download.pytorch.org/models/regnet_x_1_6gf-a12f2b72.pth)|
+|RegNet_X_3_2gf|[model link](https://download.pytorch.org/models/regnet_x_3_2gf-7071aa85.pth)|
+|RegNet_X_8gf|[model link](https://download.pytorch.org/models/regnet_x_8gf-2b70d774.pth)|
+|RegNet_X_16gf|[model link](https://download.pytorch.org/models/regnet_x_16gf-ba3796d7.pth)|
+|RegNet_X_32gf|[model link](https://download.pytorch.org/models/regnet_x_32gf-6eb8fdc6.pth)|
+|ResNet_18|[model link](https://download.pytorch.org/models/resnet18-f37072fd.pth)|
+|ResNet_34|[model link](https://download.pytorch.org/models/resnet34-b627a593.pth)|
+|ResNet_50|[model link](https://download.pytorch.org/models/resnet50-11ad3fa6.pth)|
+|ResNet_101|[model link](https://download.pytorch.org/models/resnet101-cd907fc2.pth)|
+|ResNet_152|[model link](https://download.pytorch.org/models/resnet152-f82ba261.pth)|
+|ResNeXt50_32x4d|[model link](https://download.pytorch.org/models/resnext50_32x4d-1a0047aa.pth)|
+|ResNeXt101_32x8d|[model link](https://download.pytorch.org/models/resnext101_32x8d-110c445d.pth)|
+|ResNeXt101_64x4d|[model link](https://download.pytorch.org/models/resnext101_64x4d-173b62eb.pth)|
+|ShuffleNetV2_x0_5|[model link](https://download.pytorch.org/models/shufflenetv2_x0.5-f707e7126e.pth)|
+|ShuffleNetV2_x1_0|[model link](https://download.pytorch.org/models/shufflenetv2_x1-5666bf0f80.pth)|
+|ShuffleNetV2_x1_5|[model link](https://download.pytorch.org/models/shufflenetv2_x1_5-3c479a10.pth)|
+|ShuffleNetV2_x2_0|[model link](https://download.pytorch.org/models/shufflenetv2_x2_0-8be3c8ee.pth)|
+|SqueezeNet1_0|[model link](https://download.pytorch.org/models/squeezenet1_0-b66bff10.pth)|
+|SqueezeNet1_1|[model link](https://download.pytorch.org/models/squeezenet1_1-b8a52dc0.pth)|
+|SwinTransformer_t|[model link](https://download.pytorch.org/models/swin_t-704ceda3.pth)|
+|SwinTransformer_s|[model link](https://download.pytorch.org/models/swin_s-5e29d889.pth)|
+|SwinTransformer_b|[model link](https://download.pytorch.org/models/swin_b-68c6b09e.pth)|
+|SwinTransformer_v2_t|[model link](https://download.pytorch.org/models/swin_v2_t-b137f0e2.pth)|
+|SwinTransformer_v2_s|[model link](https://download.pytorch.org/models/swin_v2_s-637d8ceb.pth)|
+|SwinTransformer_v2_b|[model link](https://download.pytorch.org/models/swin_v2_b-781e5279.pth)|
+|VGG11|[model link](https://download.pytorch.org/models/vgg11-8a719046.pth)|
+|VGG11_bn|[model link](https://download.pytorch.org/models/vgg11_bn-6002323d.pth)|
+|VGG13|[model link](https://download.pytorch.org/models/vgg13-19584684.pth)|
+|VGG13_bn|[model link](https://download.pytorch.org/models/vgg13_bn-abd245e5.pth)|
+|VGG16|[model link](https://download.pytorch.org/models/vgg16-397923af.pth)|
+|VGG16_bn|[model link](https://download.pytorch.org/models/vgg16_bn-6c64b313.pth)|
+|VGG19|[model link](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)|
+|VGG19_bn|[model link](https://download.pytorch.org/models/vgg19_bn-c79401a0.pth)|
+|VisionTransformer_b_16|[model link](https://download.pytorch.org/models/vit_b_16-c867db91.pth)|
+|VisionTransformer_b_32|[model link](https://download.pytorch.org/models/vit_b_32-d86f8d99.pth)|
+|VisionTransformer_l_16|[model link](https://download.pytorch.org/models/vit_l_16-852ce7e3.pth)|
+|VisionTransformer_l_32|[model link](https://download.pytorch.org/models/vit_l_32-c7638314.pth)|
+|VisionTransformer_h_14|[model link](https://download.pytorch.org/models/vit_h_14_swag-80465313.pth)|
+|Wide ResNet50_2|[model link](https://download.pytorch.org/models/wide_resnet50_2-9ba9bcbe.pth)|
+|Wide ResNet101_2|[model link](https://download.pytorch.org/models/wide_resnet101_2-d733dc28.pth)|
 
 ## 🚀 Keras
 | Framework                         | Model_link 	|
