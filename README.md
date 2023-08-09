@@ -88,6 +88,21 @@ The Awesome Models repository is a collection of links to pre-trained models. Ho
 |Wide ResNet50_2|[model link](https://download.pytorch.org/models/wide_resnet50_2-9ba9bcbe.pth)|
 |Wide ResNet101_2|[model link](https://download.pytorch.org/models/wide_resnet101_2-d733dc28.pth)|
 
+
+
+
+## 🚀 PyTorch - Object Detection
+| Framework                         | Model_link 	|
+|------------                      	|------------	|
+|Faster R-CNN_resnet50_fpn|[model link](https://download.pytorch.org/models/fasterrcnn_resnet50_fpn_coco-258fb6c6.pth)|
+|Faster R-CNN_resnet50_fpn_V2|[model link](https://download.pytorch.org/models/fasterrcnn_resnet50_fpn_v2_coco-dd69338a.pth)|
+|Faster R-CNN_mobilenet_v3_large_fpn|[model link](https://download.pytorch.org/models/fasterrcnn_mobilenet_v3_large_fpn-fb6a3cc7.pth)|
+|Faster R-CNN_mobilenet_v3_large_320_fpn|[model link](https://download.pytorch.org/models/fasterrcnn_mobilenet_v3_large_320_fpn-907ea3f9.pth)|
+|FCOS_resnet50_fpn|[model link](https://download.pytorch.org/models/fcos_resnet50_fpn_coco-99b0c9b7.pth)|
+|RetinaNet_resnet50_fpn|[model link](https://download.pytorch.org/models/retinanet_resnet50_fpn_coco-eeacb38b.pth)|
+|RetinaNet_resnet50_fpn_v2|[model link](https://download.pytorch.org/models/retinanet_resnet50_fpn_v2_coco-5905b1c5.pth)|
+|SSD300_vgg16|[model link](https://download.pytorch.org/models/ssd300_vgg16_coco-b556d3b4.pth)|
+|SSDlite320_mobilenet_v3_large|[model link](https://download.pytorch.org/models/ssd300_vgg16_coco-b556d3b4.pth)|
 ## 🚀 Keras
 | Framework                         | Model_link 	|
 |------------                      	|------------	|
