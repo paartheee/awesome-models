@@ -210,7 +210,9 @@
 
 
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=partheee/awesome-models&type=Date)](https://star-history.com/#partheee/awesome-models&Date)
 
 
 ## 🐞 bugs & 🦸 contribution
